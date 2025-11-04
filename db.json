@@ -1,0 +1,400 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "title": "Moynul Islam — BD-based MERN STACK Web Developer helping turn ideas into products",
+            "views": "Who am I?",
+            "image": "https://wallpapercat.com/w/full/6/2/a/2117716-3840x2160-desktop-4k-dark-wallpaper-photo.jpg"
+        }
+    ],
+    "comments": [
+        {
+            "id": "c1",
+            "text": "Strong intro. Clear identity. Location adds credibility. Experience shows trend awareness. User-focused. Agile mindset.",
+            "await": "I am a freelancer based in the Bangladesh and i have been trying to build noteworthy Frontend websites for years, which comply with the latest design trends. I help convert a vision and an idea into meaningful and useful products. Having a sharp eye for product evolution helps me prioritize tasks, iterate fast and deliver faster.",
+            "postId": "1"
+        }
+    ],
+    "profile": {
+        "id": "p1",
+        "name": "Moynul Islam",
+        "email": "tanmoyzodiac@gmail.com",
+        "age": 38,
+        "from": "Gopalganj, Dhaka"
+    },
+    "title": {
+        "id": "t1",
+        "heading": "Services I Offer to My Clients",
+        "image": "https://example.com/services-banner.jpg"
+    },
+    "services": [
+        {
+            "id": "s1",
+            "name": "Design Trends",
+            "description": "Make unique design for your satisfaction providing full optimization",
+            "icon": "https://copilot.microsoft.com/th/id/BCO.589bda02-6964-46a1-9f7c-564ccabbfbca.png"
+        },
+        {
+            "id": "s2",
+            "name": "PSD Design",
+            "description": "Fulfill minimum requirement for daily day purpose",
+            "icon": "https://copilot.microsoft.com/th/id/BCO.6ba511d4-6530-4ac1-be8b-c6bbba4a5cc9.png"
+        },
+        {
+            "id": "s3",
+            "name": "Customer Support",
+            "description": "Availability for every perspective & full time support",
+            "icon": "https://copilot.microsoft.com/th/id/BCO.538a2d3e-3e7d-44f7-b83e-85342aa798bc.png"
+        },
+        {
+            "id": "s4",
+            "name": "Web Development",
+            "description": "Specialized focusing on branding new enterprenuership",
+            "icon": "https://copilot.microsoft.com/th/id/BCO.30e5c966-9942-4214-a247-87661e9aa8c3.png"
+        },
+        {
+            "id": "s5",
+            "name": "Fully Responsive",
+            "description": "Updating with new innovation each day abroad",
+            "icon": "https://copilot.microsoft.com/th/id/BCO.dc020db4-989a-4553-8727-a8d76b5ecced.png"
+        },
+        {
+            "id": "s6",
+            "name": "Branding",
+            "description": "Attitude towards new goal for tomorrows incentive",
+            "icon": "https://copilot.microsoft.com/th/id/BCO.6ba511d4-6530-4ac1-be8b-c6bbba4a5cc9.png"
+        }
+    ],
+    "testimonials": {
+        "sectionTitle": "What My Clients Think About Me",
+        "comments": [
+            {
+                "id": "c1",
+                "name": "Mojibur Rahman",
+                "image": "GiDoubled",
+                "pic": "https://copilot.microsoft.com/th/id/BCO.ea4ab4ca-c0f4-40f2-bd3f-74efc432cbaf.png",
+                "profession": "Freelancer",
+                "text": "Moynul's designs elevated our brand. He's intuitive and fast! Moynul did an excellent creative job, addressing our request quickly, and also providing his own graphic insight, being open to feedback and changes or edits when they arose. He worked with us the entire way. Highly recommended."
+            },
+            {
+                "id": "c2",
+                "name": "Sumaiya Nasir",
+                "image": "GiDoubled",
+                "pic": "https://copilot.microsoft.com/th/id/BCO.70b862e3-8c57-403e-97fd-b5b73d5f6c2c.png",
+                "profession": "Enterpreneur",
+                "text": "Reliable, creative, and always delivers on time. Highly recommended. Moynul did an excellent creative job, addressing our request quickly, and also providing his own graphic insight, being open to feedback and changes or edits when they arose. He worked with us the entire way. Highly recommended."
+            },
+            {
+                "id": "c3",
+                "name": "Orpa Jahan",
+                "image": "GiDoubled",
+                "profession": "Student",
+                "pic": "https://copilot.microsoft.com/th/id/BCO.2bb77782-d239-4685-9e3a-11c210f17820.png",
+                "text": "His  work helped us increase conversions by 30%. Brilliant! Moynul did an excellent creative job, addressing our request quickly, and also providing his own graphic insight, being open to feedback and changes or edits when they arose. He worked with us the entire way. Highly recommended."
+            }
+        ]
+    },
+    "plans": {
+        "sectionTitles": "Get Started With My Services",
+        "planss": [
+            {
+                "id": "p1",
+                "name": "Standard",
+                "image": "BsFillRocketFill",
+                "price": "$19/month",
+                "button": "Get Standard",
+                "features": [
+                    "NEXT Coding",
+                    "Responsive Design",
+                    "Database Development",
+                    "Web Design",
+                    "24/7 Support"
+                ]
+            },
+            {
+                "id": "p2",
+                "name": "Professional",
+                "image": "WiRaindrop",
+                "price": "$29/month",
+                "button": "Get Pro",
+                "features": [
+                    "NEXT Coding",
+                    "Responsive Design",
+                    "Database Development",
+                    "Web Design",
+                    "24/7 Support"
+                ]
+            },
+            {
+                "id": "p3",
+                "name": "Business",
+                "price": "$39/month",
+                "image": "MdDirtyLens",
+                "button": "Get Business",
+                "features": [
+                    "NEXT Coding",
+                    "Responsive Design",
+                    "Database Development",
+                    "Web Design",
+                    "24/7 Support"
+                ]
+            }
+        ]
+    },
+    "education": [
+        {
+            "id": "1",
+            "degree": "MERN Stack WEB Dev.",
+            "institution": "BD Calling Academy",
+            "duration": "2025 - Present",
+            "description": "Participate in BD Calling for understanidng & developing new Web dev. to co-operate with modern innovation."
+        },
+        {
+            "id": "2",
+            "degree": "Bachelor Degree",
+            "institution": "East West University",
+            "duration": "2009 - 2013",
+            "description": "Obtain Bachelor in Economic major in Micro to understand Economic flow within or Outer Context."
+        },
+        {
+            "id": "3",
+            "degree": "S.S.C",
+            "institution": "Govt. Science College",
+            "duration": "2004 - 2005",
+            "description": "Preliminary level for basic Science."
+        }
+    ],
+    "experience": [
+        {
+            "id": "1",
+            "title": "Web Engineer",
+            "company": "BD Calling",
+            "duration": "2025 - Present",
+            "description": "Participate in BD Calling for understanidng & developing new Web dev. to co-operate with modern innovation."
+        },
+        {
+            "id": "2",
+            "title": "Analyst",
+            "company": "Standard Chartered BD",
+            "duration": "2013 - 2016",
+            "description": "Securities Services Officer Global Custody."
+        },
+        {
+            "id": "3",
+            "title": "Transaction Service Officer",
+            "company": "IFIC BD",
+            "duration": "2017 - 2019",
+            "description": "Front End Officer for renowned Bank in BD."
+        }
+    ],
+    "skills": [
+        {
+            "id": "1",
+            "name": "HTML/CSS",
+            "level": 95
+        },
+        {
+            "id": "2",
+            "name": "Web Design",
+            "level": 80
+        },
+        {
+            "id": "3",
+            "name": "JavaScript",
+            "level": 90
+        },
+        {
+            "id": "4",
+            "name": "React JS",
+            "level": 90
+        },
+        {
+            "id": "5",
+            "name": "NEXT.js",
+            "level": 95
+        },
+        {
+            "id": "6",
+            "name": "Node.Js",
+            "level": 80
+        }
+    ],
+    "officeTour": {
+        "id": "office-tour-01a2b3c4",
+        "title": "Take a tour of my office",
+        "description": [
+            "Welcome to my creative space — we design meets code, and every pixel has a purpose. This is we ideas are sketched, refined, and brought to life with passion, precision, and a touch of curiosity. Take a look around."
+        ]
+    },
+    "categories": [
+        {
+            "id": "cat001",
+            "name": "All"
+        },
+        {
+            "id": "cat002",
+            "name": "Brand"
+        },
+        {
+            "id": "cat003",
+            "name": "Design"
+        },
+        {
+            "id": "cat004",
+            "name": "Photos"
+        }
+    ],
+    "items": [
+        {
+            "id": "itm001",
+            "title": "Minimalist Watch",
+            "name": "Brand",
+            "img": "https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?_gl=1*1e7ns13*_ga*MTUyNTU5MzQyOC4xNzYwODgxMzk3*_ga_8JE65Q40S6*czE3NjIxMDg3OTckbzQkZzEkdDE3NjIxMDkyMDUkajU5JGwwJGgw",
+            "price": 120,
+            "rating": 4.8,
+            "tags": [
+                "accessory",
+                "fashion",
+                "minimal"
+            ]
+        },
+        {
+            "id": "itm002",
+            "title": "Creative Poster",
+            "name": "Design",
+            "img": "https://as1.ftcdn.net/v2/jpg/04/95/07/94/1000_F_495079449_lyaeIerlTZN4VCcsvyqWB6kvigARppTY.jpg",
+            "price": 25,
+            "rating": 4.5,
+            "tags": [
+                "art",
+                "print",
+                "wall"
+            ]
+        },
+        {
+            "id": "itm003",
+            "title": "Studio Headphones",
+            "name": "Brand",
+            "img": "https://as1.ftcdn.net/v2/jpg/03/00/25/70/1000_F_300257078_jOK2L3lIvnlHMoWrKAWtE7FBa4WI5jTf.jpg",
+            "price": 89,
+            "rating": 4.7,
+            "tags": [
+                "audio",
+                "tech",
+                "studio"
+            ]
+        },
+        {
+            "id": "itm004",
+            "title": "Nature Photography",
+            "name": "Photos",
+            "img": "https://as1.ftcdn.net/v2/jpg/03/63/94/88/1000_F_363948837_OnJOJupnRdr15fOryrTF0zrnIFQ6nUp1.jpg",
+            "price": 40,
+            "rating": 4.9,
+            "tags": [
+                "nature",
+                "outdoor",
+                "print"
+            ]
+        },
+        {
+            "id": "itm005",
+            "title": "Logo Hoodie",
+            "name": "Design",
+            "img": "https://as2.ftcdn.net/v2/jpg/04/92/96/91/1000_F_492969184_vU8GZJ8U9j0pDvXw3gLFKHtVnHZTKd1D.jpg",
+            "price": 60,
+            "rating": 4.6,
+            "tags": [
+                "clothing",
+                "streetwear",
+                "logo"
+            ]
+        }
+    ],
+    "blogs": "My Blog",
+    "postss": [
+        {
+            "id": "post001",
+            "date": "2020-12-11",
+            "title": "Top tools for Photographers",
+            "image": "https://images.unsplash.com/photo-1689443111130-6e9c7dfd8f9e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470",
+            "content": "Exploring the latest gear and editing software to elevate visual storytelling in 2025."
+        },
+        {
+            "id": "post002",
+            "date": "2020-08-12",
+            "title": "Take a tour of my office",
+            "image": "https://www.shutterstock.com/shutterstock/photos/2415167891/display_1500/stock-vector-vector-line-icon-for-paid-vacation-2415167891.jpg",
+            "content": "Showcasing my minimalist workspace setup optimized for remote design and development."
+        },
+        {
+            "id": "post003",
+            "date": "2020-02-04",
+            "title": "How I became a Web Designer",
+            "image": "https://kinsta.com/wp-content/uploads/2020/02/web-design-best-practices-1024x512.jpg",
+            "content": "Reflecting on my creative journey and current focus on UI/UX refinement and branding."
+        },
+        {
+            "id": "post004",
+            "date": "2019-12-11",
+            "title": "How to improve work performance",
+            "image": "https://www.shutterstock.com/shutterstock/photos/2224682725/display_1500/stock-photo-taregt-customer-concept-performance-appraisal-in-hrm-corporate-regulatory-and-compliance-quality-2224682725.jpg",
+            "content": "Sharing productivity hacks and how I use modular code structures to stay efficient."
+        },
+        {
+            "id": "post005",
+            "date": "2019-11-15",
+            "title": "How to work from home",
+            "image": "https://www.shutterstock.com/shutterstock/photos/2595897237/display_1500/stock-photo-group-of-professionals-engaged-in-cyber-security-awareness-and-protection-with-icons-representing-2595897237.jpg",
+            "content": "Tips from my experience balancing creative flow and backend integration while remote."
+        },
+        {
+            "id": "post006",
+            "date": "2019-08-08",
+            "title": "How to enjoy your business trip",
+            "image": "https://www.shutterstock.com/shutterstock/photos/2641481201/display_1500/stock-photo-startup-company-employee-team-stacking-hand-together-symbolize-successful-group-of-business-2641481201.jpg",
+            "content": "Combining travel with tech inspiration—visiting design hubs and meeting fellow creatives."
+        },
+        {
+            "id": "post007",
+            "date": "2021-03-22",
+            "title": "My favorite design tools in 2021",
+            "image": "https://www.shutterstock.com/shutterstock/photos/2554263487/display_1500/stock-photo-a-siberian-husky-and-a-belgian-malinois-are-shown-in-side-profile-against-a-black-background-2554263487.jpg",
+            "content": "Still using Figma and Tailwind—now with animated transitions and semantic iconography."
+        },
+        {
+            "id": "post008",
+            "date": "2021-06-10",
+            "title": "Remote work setup essentials",
+            "image": "https://www.shutterstock.com/shutterstock/photos/2639517187/display_1500/stock-vector-elegant-lotus-flower-illustration-black-and-white-floral-art-2639517187.jpg",
+            "content": "Upgraded my gear for cloud deployment and OAuth testing—here’s what powers my workflow."
+        },
+        {
+            "id": "post009",
+            "date": "2021-09-01",
+            "title": "Why I switched to Next.js",
+            "image": "https://www.shutterstock.com/shutterstock/photos/2233986973/display_1500/stock-photo-female-hand-in-yellow-shirt-hold-gift-box-on-green-curtains-background-2233986973.jpg",
+            "content": "Next.js App Router and Vercel deployment have transformed how I build scalable portfolios."
+        }
+    ],
+    "id": "contact-section-001",
+    
+        "heading": {
+            "text": "Message Me"
+        },
+    
+
+    "formFields": {
+        "name": "",
+        "email": "",
+        "subject": "",
+        "message": ""
+    },
+    "contactInfo": {
+        "availabilityNote": "Always available for freelance work if the right project comes along, Feel free to contact me!",
+        "name": "Moynul Islam",
+        "location": "15/C/3, Mirbagh, Moghbazar, Dhaka-1217",
+        "phone": "+880 1670 892124",
+        "email": "tanmoyzodiac@gmail.com"
+    }
+}
