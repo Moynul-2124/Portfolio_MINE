@@ -12,13 +12,13 @@ import {
 export default function PortfolioPage() {
     const { data: categories, isLoading: categoriesLoading } = useGetCategoriesQuery();
     const {
-        data: itemsData,
+        data: itemsData,    
         isLoading: itemsLoading,
         error: itemsError,
-    } = useGetItemsQuery();
+        } = useGetItemsQuery();
 
     const [selectedCategory, setSelectedCategory] = useState('All');
-
+        
     // Filter items by category name
     const filteredItems =
         selectedCategory === 'All'
